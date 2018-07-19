@@ -1,12 +1,13 @@
 html {
 	background-color: #09f;
+	margin-top: 10px;
 }
 
 body {
 	background-image: url(imagenes/paisaje_nieve.jpg);
 	width: 70%;
 	background-color: #FFF;
-	margin-top:20px;
+	margin-top:px;
 	margin-left: auto;
 	margin-right: auto;
 	padding-bottom:10px;
@@ -38,4 +39,10 @@ h1 {
 	color: blue;
 	text-align: center;
 	margin-bottom:40px;
+}
+
+li{
+	display: inline;
+	padding: 5px;
+	margin-top:10px;
 }
